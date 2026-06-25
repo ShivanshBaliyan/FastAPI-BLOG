@@ -1,0 +1,39 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Test and coverage artifacts
+.pytest_cache/
+.coverage
+htmlcov/
+.coverage.*
+
+# Database files
+*.db
+*.sqlite3
+
+# Environment files
+.env
+.env.*
+
+# Upload/media local artifacts
+media/uploads/
+media/profile_pics/*.jpg
+media/profile_pics/*.jpeg
+media/profile_pics/*.png
+media/profile_pics/*.gif
+
+# Editor/IDE settings
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
